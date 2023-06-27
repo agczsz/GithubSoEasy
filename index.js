@@ -1,5 +1,5 @@
 
-const your_domain = HOME_DOMAIN || '<你的自定义域名>.workers.dev'
+const your_domain = 'agczsz.vercel.app'
 const login_page = 'https://nICEnnnnnnnLee.github.io/GithubSoEasy/login.html'
 
 //返回html时的替换字典
